@@ -6,14 +6,10 @@ Ce projet va permettre :
 
 * récupérer des messages
 * les stocker en BDD
-* les afficher 
+* les afficher
 * utiliser Node-RED
 
 
 
-!\[Robot](Robot.png)
-
-
-
-
+![Robot](Robot.avif)
 
