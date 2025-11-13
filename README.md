@@ -8,3 +8,12 @@ Ce projet va permettre :
 * les stocker en BDD
 * les afficher 
 * utiliser Node-RED
+
+
+
+!\[Robot](Robot.png)
+
+
+
+
+
